@@ -81,10 +81,11 @@ miami-restaurant/
 ---
 
 ##  Preview
-![About](https://github.com/user-attachments/assets/d2a1a614-024d-43a9-b9af-3494d948e2f7)
-![Menu](https://github.com/user-attachments/assets/ea50679e-4208-4bca-b687-6aca07895225)
-![HomeSec](https://github.com/user-attachments/assets/2a54c491-4e36-4b70-9ad4-00930e2e6bf2)
+
 ![HomeOne](https://github.com/user-attachments/assets/234ee744-47dc-47d8-8966-ea90847e3495)
+![HomeSec](https://github.com/user-attachments/assets/2a54c491-4e36-4b70-9ad4-00930e2e6bf2)
+![Menu](https://github.com/user-attachments/assets/ea50679e-4208-4bca-b687-6aca07895225)
+![About](https://github.com/user-attachments/assets/d2a1a614-024d-43a9-b9af-3494d948e2f7)
 ![Booking](https://github.com/user-attachments/assets/e4a28741-ee16-4917-8ef8-c66e3c528e09)
 
 
