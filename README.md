@@ -76,7 +76,7 @@ miami-restaurant/
 │
 ├── package.json
 └── vite.config.js
-
+```
 
 ---
 
