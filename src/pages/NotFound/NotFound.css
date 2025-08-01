@@ -1,0 +1,8 @@
+.notfound h1 {
+  color: #111111;
+  font-weight: 700;
+}
+
+.notfound p {
+  margin-bottom: 20px;
+}

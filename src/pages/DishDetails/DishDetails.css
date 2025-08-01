@@ -1,0 +1,76 @@
+.dish-details-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 16px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.dish-title {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.dish-img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.dish-desc {
+  font-size: 16px;
+  color: #444;
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
+
+.youtube-link {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #ff2e2e;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+}
+
+.youtube-link:hover {
+  background-color: #e40000;
+}
+
+.back-btn {
+
+  
+  background-color: #fa4c0c;
+  border: none;
+  color: #ffffff;
+  margin-bottom: 20px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+/* Responsive */
+
+
+@media (max-width: 600px) {
+  .dish-title {
+    font-size: 20px;
+  }
+
+  .dish-desc {
+    font-size: 14px;
+  }
+
+  .dish-img {
+    max-height: 250px;
+  }
+}

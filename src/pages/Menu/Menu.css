@@ -1,0 +1,92 @@
+.menu-page {
+  padding: 30px;
+  background-color: #f5f5f5;
+  min-height: 100vh;
+}
+
+.menu-title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 34px;
+  color: #222;
+}
+
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.menu-card {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  text-align: center;
+  padding: 16px;
+  transition: transform 0.2s;
+}
+
+.menu-card:hover {
+  transform: translateY(-4px);
+}
+
+.menu-img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+
+.meal-name {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #333;
+}
+
+.meal-price {
+  font-size: 16px;
+  font-weight: bold;
+  color: #009688;
+  margin-bottom: 10px;
+}
+
+.btns button {
+  padding: 8px 14px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.btn-order {
+  background-color: #ff6b6b;
+  color: #fff;
+}
+
+.btn-order:hover {
+  background-color: #ff4b4b;
+}
+
+.btn-details {
+  background-color: #5c6bc0;
+  color: #fff;
+}
+
+.btn-details:hover {
+  background-color: #3f51b5;
+}
+
+/* Center loader */
+.loader-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+
